@@ -4,7 +4,7 @@ It uses React as the component library for building web applications,
 pnpm as the package manager, and TypeScript as the programming language.  
 
 ## Installation
-To install and run this project, you will need to have [Node.js](https://nodejs.org/tr/download/package-manager/) and [pnpm](https://pnpm.io/installation#using-npm) installed on your computer.
+To install and run this project, you will need to have <a href="https://nodejs.org/tr/download/package-manager/" target="_blank">Node.js</a> and <a href="https://pnpm.io/installation#using-npm" target="_blank">pnpm</a> installed on your computer.
 
 1. Clone this repository to your computer using `git clone git@github.com:juthomas/esp-web-base.git`.  
 2. Navigate to the project directory with `cd my-react-project`.  
