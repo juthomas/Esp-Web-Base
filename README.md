@@ -6,10 +6,10 @@ pnpm as the package manager, and TypeScript as the programming language.
 ## Installation
 To install and run this project, you will need to have Node.js and pnpm installed on your computer.
 
-Clone this repository to your computer using `git clone git@github.com:juthomas/esp-web-base.git`.
-Navigate to the project directory with `cd my-react-project`.
-Install the project dependencies with `pnpm install`.
-Run the project using `pnpm run dev`.
+Clone this repository to your computer using `git clone git@github.com:juthomas/esp-web-base.git`.  
+Navigate to the project directory with `cd my-react-project`.  
+Install the project dependencies with `pnpm install`.  
+Run the project using `pnpm run dev`.  
 
 ## Usage
 To flash an ESP8266 or ESP32 from your web browser, follow these steps:
